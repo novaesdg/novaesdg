@@ -1,14 +1,14 @@
-## Olá! Eu sou Diogo Novaes 🖐️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogonovaesdev/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Diogo+Novaes)](https://git.io/typing-svg)<br><br>
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=novaesdg&show_icons=true&theme=dark)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=novaesdg&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Novaes github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaesdg&layout=compact&hide_border=true&title_color=4B0082&text_color=00bfbf&bg_color=0d1117" />
+</div><br><br>
 
-## Tecnologias que eu uso no dia a dia  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=novaesdg&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-f06529?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
