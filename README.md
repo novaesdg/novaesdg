@@ -17,6 +17,8 @@
   </tr>
 </table>
 
+<br>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novaesdg&theme=midnight_purple" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
